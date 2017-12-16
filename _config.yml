@@ -1,6 +1,6 @@
 title: mangala's blog
 author: Mangala Kodagoda
-email: mail.mangala@gmail.com
+email: mail(dot)mangala(at)gmail(dot)com
 description: > # this means to ignore newlines until "baseurl:"
   A software developer blogs about personal projects,
   thoughts, ideas or anything else worth recording.
@@ -30,6 +30,3 @@ exclude:
 
 plugins:
   - jekyll-seo-tag
-
-gems:
-  - jekyll-email-protect
